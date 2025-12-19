@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Calcul de la dépense énergétique quotidienne totale (TDEE)
 
 Ce script Python a été rédigé avec l'aide de ChatGPT pour un entraînement à la programmation. Il constitue une version plus professionnelle de la première version du script.
@@ -39,3 +40,7 @@ Le fichier de test contient des tests unitaires pour :
 Licence
 
 MIT
+=======
+# TDEE_script
+Le script calcule le TDEE (dépense énergétique journalière) d'un sportif avec les formules de Mifflin-St Jeor. Il prend en compte le sexe, l'âge, le poids, la taille, le niveau d'activité et l'objectif du sportif.
+>>>>>>> 1ff630be3c8c893d37bdea9ed8e2c02edfcb3047

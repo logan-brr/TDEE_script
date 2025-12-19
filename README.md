@@ -1,4 +1,4 @@
-#Calcul de la dépense énergétique quotidienne totale (TDEE)
+# Calcul de la dépense énergétique quotidienne totale (TDEE)
 
 Ce script Python a été rédigé avec l'aide de ChatGPT pour un entraînement à la programmation. Il constitue une version plus professionnelle de la première version du script intitulé "old_tdee_script.py" (lui aussi rédigé avec l'aide de l'IA).
 
@@ -13,13 +13,13 @@ Le script calcule la dépense énergétique quotidienne totale d'un individu sel
 - Son niveau d'activité (nombre de séances de sport par semaine)
 - Son objectif (sèche, maintenance, prise de masse)
 
-##Installation / Prérequis
+## Installation / Prérequis
 
 - Python 3.14.0
 - Téléchargez le fichier tdee.py
 - Lancez-le depuis votre terminal ou IDE
 
-##Améliorations du script initial
+## Améliorations du script initial
 
 - Structure claire et lisible : sections distinctes pour constantes, inputs, calculs et workflow principal.
 - Fonctions pures pour les calculs : facilite les tests unitaires.
@@ -29,14 +29,14 @@ Le script calcule la dépense énergétique quotidienne totale d'un individu sel
   - Gestion des erreurs via try/except et validation par plages (âge, taille, poids)
   - Le script est importable comme module et peut être utilisé seul ou intégré dans d'autres projets.
 
-##Tests
+## Tests
 
 Le fichier de test contient des tests unitaires pour :
 - calcul_bmr : métabolisme de base
 - calcul_tdee : besoins en fonction de l'activité physique
 - ajuster_objectif : ajustement selon l'objectif
 
-##Licence
+## Licence
 
 MIT
 
